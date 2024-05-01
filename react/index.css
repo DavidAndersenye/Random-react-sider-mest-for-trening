@@ -1,0 +1,16 @@
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+.nav-items > li {
+    margin: 0 10px; 
+    color: #333; 
+    font-weight: bold; 
+    cursor: pointer; 
+  }
